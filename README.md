@@ -6,7 +6,7 @@ Built using **Python**, **Scikit-learn**, and **Streamlit**, this project demons
 ---
 
 ## Dashboard  
-- **Dashboard (view/demo):** _https://drive.google.com/file/d/your-streamlit-demo-link/view?usp=drive_link_  
+- **Dashboard (view/demo):** https://drive.google.com/file/d/1JWaJIeVGvfAo7VDaIDbCrTeHsE_qf19f/view?usp=sharing
 
 ![Image](https://github.com/user-attachments/assets/your-ai-fraud-image-id)
 
