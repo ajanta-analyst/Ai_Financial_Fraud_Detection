@@ -8,7 +8,7 @@ Built using **Python**, **Scikit-learn**, and **Streamlit**, this project demons
 ## Dashboard  
 - **Dashboard (view/demo):** https://drive.google.com/file/d/1JWaJIeVGvfAo7VDaIDbCrTeHsE_qf19f/view?usp=sharing
 
-- ![Dashboard Preview](?raw=true)
+- ![Dashboard Preview](https://github.com/ajanta-analyst/Ai_Financial_Fraud_Detection/blob/main/ai%20project.jpg?raw=true)
 
 ---
 
